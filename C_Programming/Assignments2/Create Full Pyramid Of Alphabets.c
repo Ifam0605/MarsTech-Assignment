@@ -1,19 +1,12 @@
 #include <stdio.h>
-
 int main() {
-    int n,i;
-    char m ;
-    printf("Enter the number char: ");
-    scanf("%d", &n);
-    for (i = 1; i <=n; i++)
-    {
-        for (m = 'A'; m < 'A' + i; m++)
-
-            {
-            printf("%c ", m);
-             }
-        printf("\n");
-    }
-
+    int i, j, rows;
+    printf("Enter the number of rows: ");
+    scanf("%d", &rows);
+    for (i = 1; i <= rows; ++i) {for (j = 1; j <= i; ++j) {
+    printf("* ");
 }
-
+    printf("\n");
+}
+return 0;
+}
