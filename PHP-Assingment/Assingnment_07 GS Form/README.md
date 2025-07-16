@@ -9,5 +9,6 @@ This system is designed to help Grama Niladari offices manage resident informati
 - Built with PHP and HTML/CSS
 
 Ideal for local government use or IT students developing e-governance systems!
-![preview img](/preview.PNG)  
+
+![preview img](preview.PNG)
 
