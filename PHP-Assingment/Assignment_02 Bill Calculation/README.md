@@ -1,6 +1,6 @@
 # Grocery Bill Calculation 🛒
 
-This web app helps users easily calculate their total grocery bill. Enter the quantity for each item—Biscuits, Noodles, Bread, Milk, and Dhal—and click "Calculate Bill" to get the total. Each item has a fixed price, making it quick and simple to use.
+This web app helps users easily calculate their total grocery bill. Enter the quantity for each item: Biscuits, Noodles, Bread, Milk, and Dhal and click "Calculate Bill" to get the total. Each item has a fixed price, making it quick and simple.
 
 ## Features
 - User-friendly form to add item quantities
