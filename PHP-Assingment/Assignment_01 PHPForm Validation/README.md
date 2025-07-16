@@ -14,4 +14,4 @@ This project is a simple and responsive job application form built for practice 
 - PHP (Form Validation)
 - If any additional functionality is added
 
-![preview img](/preview.PNG)
+![preview img](/preview.PNG).
